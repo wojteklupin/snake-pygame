@@ -4,7 +4,7 @@ Snake game written in Python (with PyGame)
 # Setup
 Once you have Python 3.6 installed, you have also to install PyGame with the following command:
 ```sh
-$ pip3 install pygame
+$ sudo pip3 install pygame
 ```
 
 # Controls
